@@ -89,6 +89,9 @@
 /* Begin PBXProject section */
 		4309FE521337A17400A644E7 /* Project object */ = {
 			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
 			buildConfigurationList = 4309FE551337A17400A644E7 /* Build configuration list for PBXProject "CSizes" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
@@ -191,6 +194,7 @@
 				4309FE661337A17500A644E7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
